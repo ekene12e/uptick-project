@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Visit site - https://uptickmovie-app.netlify.app/
+Visit site - https://uptick-movie.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
